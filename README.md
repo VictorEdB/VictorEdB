@@ -7,6 +7,4 @@
 - 😄 Pronouns: ela/dele
 
 
-[![VictorEdB's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdB)](https://github.com/VictorEdB/github-readme-stats)
-![VictorEdB's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdB&show_icons=true&theme=transparent)
-![VictorEdB's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdB&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.dracula.app/api?username=anuraghazra&show_icons=true&theme=radical)
