@@ -7,4 +7,4 @@
 - 😄 Pronouns: ela/dele
 
 
-![Anurag's GitHub stats](https://github-readme-stats.dracula.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![VictorEdB's GitHub stats](https://github-readme-stats.dracula.app/api?username=VictorEdB&show_icons=true&theme=radical)
