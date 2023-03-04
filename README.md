@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando: front-end com back-end jumto com react
+- 🌱 Estudando: front-end com back-end junto com react
 - 📫 Contate-me no email: Victorbatista2020.vb@gmail.com
 - 😄 Pronouns: ele/dele
 
