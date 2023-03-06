@@ -8,11 +8,11 @@
 
 ##
 
-<!-- <div align="center">
+ <div align="center">
   <a href="https://github.com/VictorEdB">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEdB&layout=compact)](https://github.com/VictorEdB/github-readme-stats)(https://github.com/VictorEdB/github-readme-stats)
+(https://github.com/VictorEdB/github-readme-stats)
 </div> 
- -->
+ 
  
 ![VictorEdB's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdB&&theme=tokyonight&show_icons=true)
  
