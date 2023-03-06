@@ -9,9 +9,10 @@
 <div align="center">
   <a href="https://github.com/VictorEdB">
 <img height="150em" src= https://github-readme-stats.vercel.app/api?username=VictorEdB&theme=tokyonight&show_icons=true/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEdB)](https://github.com/VictorEdB/github-readme-stats)/> 
-
+ 
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEdB)](https://github.com/VictorEdB/github-readme-stats)/>  
+  
 
 <div>  
   <a href = "mailto:victorbatista2020.vb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
