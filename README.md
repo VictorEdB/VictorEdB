@@ -18,6 +18,8 @@
   <a href="https://www.linkedin.com/in/victor-batista-380428252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
 <div align="center" style="display:inline-block">
     <h3>Minha Stack:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML5" height="50" width="60"/>
