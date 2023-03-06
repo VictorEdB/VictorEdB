@@ -14,7 +14,7 @@
 <img height="150em" src= [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEdB&exclude_repo=github-readme-stats,VictorEdB.github.io)](https://github.com/VictorEdB/github-readme-stats)
 </div> 
  -->
- ![VictorEdB's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdB&show_icons=true&theme=Dracula)
+ ![VictorEdB's GitHub stats] (https://github-readme-stats.vercel.app/api?username=VictorEdB&theme=tokyonight&show_icons=true)
  
 ##
   
