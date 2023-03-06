@@ -14,8 +14,7 @@
 <img height="150em" src= [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEdB&exclude_repo=github-readme-stats,VictorEdB.github.io)](https://github.com/VictorEdB/github-readme-stats)
 </div> 
  -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorEdB&&theme=tokyonight&show_icons=true)
  
 ##
   
